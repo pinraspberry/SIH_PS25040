@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FloatChat - Argo NetCDF RAG Pipeline
 
 > **Smart India Hackathon (SIH) 2024 Submission**
