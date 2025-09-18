@@ -38,3 +38,4 @@ zipp==3.23.0
 sentence-transformers==5.1.0
 pgvector==0.2.4
 google-generativeai==0.3.2
+python-dotenv==1.0.0
